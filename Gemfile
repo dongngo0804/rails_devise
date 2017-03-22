@@ -7,6 +7,7 @@ end
 
 
 gem 'devise'
+gem 'devise-bootstrap-views'
 gem 'pry-rails', :group => :development
 gem 'bootstrap-sass'
 
